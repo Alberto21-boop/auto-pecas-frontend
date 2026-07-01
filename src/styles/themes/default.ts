@@ -3,6 +3,7 @@ export const defaultTheme = {
         'base-background-screen': '#0b0c1a',
         'base-background-deep': '#080914',
         'base-background-soft': '#15152a',
+        'base-loading': '#d71920',
         "base-text": "#000000",
         "base-button": "#E6E5E5",
         "brand-purple": "#8047F8",
